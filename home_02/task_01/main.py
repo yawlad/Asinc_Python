@@ -21,7 +21,7 @@ def get_data(file_names):
     return main_data
 
 def write_to_csv(file_name): 
-    with open(file_name, 'w') as csv_file:
+with open(file_name, 'w', encoding='utf-8') as csv_file:
         file_writer = csv.writer(csv_file)
         for line in get_data(['home_02/task_01/info_1.txt', 'home_02/task_01/info_2.txt', 'home_02/task_01/info_3.txt']):
             file_writer.writerow(line)
