@@ -1,0 +1,22 @@
+2022-12-26 14:01:59,826 INFO server.py Port set to default 7777
+2022-12-26 14:01:59,827 INFO server.py Adress set to default 127.0.0.1
+2022-12-26 14:01:59,827 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-26 14:01:59,828 ERROR server.py Error while starting: [WinError 10048] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт)
+2022-12-26 14:02:37,765 INFO server.py Port set to default 7777
+2022-12-26 14:02:37,765 INFO server.py Adress set to default 127.0.0.1
+2022-12-26 14:02:37,765 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-26 14:02:37,766 ERROR server.py Error while starting: [WinError 10048] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт)
+2022-12-26 14:03:08,331 INFO server.py Port set to default 7777
+2022-12-26 14:03:08,331 INFO server.py Adress set to default 127.0.0.1
+2022-12-26 14:03:08,331 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-26 14:03:08,332 INFO server.py Successfully started: 127.0.0.1:7777
+2022-12-26 14:03:43,137 INFO server.py Guest connected
+2022-12-26 14:03:43,138 INFO server.py Processing client request
+2022-12-26 14:03:43,138 INFO server.py Succsessfully processed
+2022-12-26 14:04:01,586 INFO server.py Guest connected
+2022-12-26 14:04:01,587 INFO server.py Processing client request
+2022-12-26 14:04:01,587 INFO server.py Succsessfully processed
+2022-12-26 14:04:42,432 ERROR server.py Error while processing message: 'account_name'
+2022-12-26 14:05:06,555 INFO server.py Guest connected
+2022-12-26 14:05:06,555 INFO server.py Processing client request
+2022-12-26 14:05:06,556 INFO server.py Succsessfully processed

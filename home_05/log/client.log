@@ -1,0 +1,33 @@
+2022-12-26 13:37:17,480 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 13:38:00,551 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 13:42:23,969 INFO client.py Set settings to default: 127.0.0.1:7777.
+2022-12-26 13:42:23,969 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 13:42:26,014 ERROR client.py Connection refused: 127.0.0.1:7777
+2022-12-26 13:44:35,721 INFO client.py Set settings to default: 127.0.0.1:7777.
+2022-12-26 13:44:35,721 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 13:44:35,722 INFO client.py Successfully connected to 127.0.0.1:7777.
+2022-12-26 13:44:35,722 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2022-12-26 13:45:34,679 INFO client.py Set settings to default: 127.0.0.1:7777.
+2022-12-26 13:45:34,679 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 13:45:34,679 INFO client.py Successfully connected to 127.0.0.1:7777.
+2022-12-26 13:45:34,680 ERROR client.py Decoding error: string indices must be integers
+2022-12-26 14:03:43,136 INFO client.py Set settings to default: 127.0.0.1:7777.
+2022-12-26 14:03:43,136 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 14:03:43,137 INFO client.py Successfully connected to 127.0.0.1:7777.
+2022-12-26 14:03:43,138 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2022-12-26 14:04:01,585 INFO client.py Set settings to default: 127.0.0.1:7777.
+2022-12-26 14:04:01,585 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 14:04:01,586 INFO client.py Successfully connected to 127.0.0.1:7777.
+2022-12-26 14:04:01,587 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
+2022-12-26 14:04:42,430 INFO client.py Set settings to default: 127.0.0.1:7777.
+2022-12-26 14:04:42,431 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 14:04:42,431 INFO client.py Successfully connected to 127.0.0.1:7777.
+2022-12-26 14:04:42,432 ERROR client.py Decoding error: Expecting value: line 1 column 1 (char 0)
+2022-12-26 14:05:06,554 INFO client.py Set settings to default: 127.0.0.1:7777.
+2022-12-26 14:05:06,554 INFO client.py Trying to connect to 127.0.0.1:7777.
+2022-12-26 14:05:06,555 INFO client.py Successfully connected to 127.0.0.1:7777.
+2022-12-26 14:05:06,556 INFO client.py Get answer from server: Response code: 200
+Alert: Connected.
