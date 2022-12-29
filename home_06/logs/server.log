@@ -1,0 +1,55 @@
+2022-12-26 14:01:59,826 INFO server.py Port set to default 7777
+2022-12-26 14:01:59,827 INFO server.py Adress set to default 127.0.0.1
+2022-12-26 14:01:59,827 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-26 14:01:59,828 ERROR server.py Error while starting: [WinError 10048] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт)
+2022-12-26 14:02:37,765 INFO server.py Port set to default 7777
+2022-12-26 14:02:37,765 INFO server.py Adress set to default 127.0.0.1
+2022-12-26 14:02:37,765 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-26 14:02:37,766 ERROR server.py Error while starting: [WinError 10048] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт)
+2022-12-26 14:03:08,331 INFO server.py Port set to default 7777
+2022-12-26 14:03:08,331 INFO server.py Adress set to default 127.0.0.1
+2022-12-26 14:03:08,331 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-26 14:03:08,332 INFO server.py Successfully started: 127.0.0.1:7777
+2022-12-26 14:03:43,137 INFO server.py Guest connected
+2022-12-26 14:03:43,138 INFO server.py Processing client request
+2022-12-26 14:03:43,138 INFO server.py Succsessfully processed
+2022-12-26 14:04:01,586 INFO server.py Guest connected
+2022-12-26 14:04:01,587 INFO server.py Processing client request
+2022-12-26 14:04:01,587 INFO server.py Succsessfully processed
+2022-12-26 14:04:42,432 ERROR server.py Error while processing message: 'account_name'
+2022-12-26 14:05:06,555 INFO server.py Guest connected
+2022-12-26 14:05:06,555 INFO server.py Processing client request
+2022-12-26 14:05:06,556 INFO server.py Succsessfully processed
+2022-12-29 15:19:18,859 INFO server.py Port set to default 7777
+2022-12-29 15:19:18,859 INFO server.py Adress set to default 127.0.0.1
+2022-12-29 15:19:18,859 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-29 15:19:18,860 INFO server.py Successfully started: 127.0.0.1:7777
+2022-12-29 15:20:20,881 INFO server.py Port set to default 7777
+2022-12-29 15:20:20,881 INFO server.py Adress set to default 127.0.0.1
+2022-12-29 15:20:20,881 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-29 15:20:20,882 INFO server.py Successfully started: 127.0.0.1:7777
+2022-12-29 15:24:53,397 INFO server.py Port set to default 7777
+2022-12-29 15:24:53,397 INFO server.py Adress set to default 127.0.0.1
+2022-12-29 15:24:53,397 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-29 15:24:53,398 INFO server.py Successfully started: 127.0.0.1:7777
+2022-12-29 15:25:58,903 INFO server.py Guest connected
+2022-12-29 15:25:58,903 INFO server.py Processing client request
+2022-12-29 15:25:58,903 INFO server.py Succsessfully processed
+2022-12-29 15:25:58,915 INFO decorators.py Function <process_client_request> was called from <main> function
+2022-12-29 15:28:39,104 ERROR server.py Error while processing message: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2022-12-29 15:30:17,116 INFO server.py Port set to default 7777
+2022-12-29 15:30:17,117 INFO server.py Adress set to default 127.0.0.1
+2022-12-29 15:30:17,117 INFO server.py Trying to start server: 127.0.0.1:7777
+2022-12-29 15:30:17,118 INFO server.py Successfully started: 127.0.0.1:7777
+2022-12-29 15:30:27,292 INFO server.py Guest connected
+2022-12-29 15:30:27,292 INFO server.py Processing client request
+2022-12-29 15:30:27,292 INFO server.py Succsessfully processed
+2022-12-29 15:30:27,304 INFO decorators.py Function <process_client_request> was called from <main> function
+2022-12-29 15:31:23,477 INFO server.py Guest connected
+2022-12-29 15:31:23,477 INFO server.py Processing client request
+2022-12-29 15:31:23,478 INFO server.py Succsessfully processed
+2022-12-29 15:31:23,478 INFO decorators.py Function <process_client_request> was called from <main> function
+2022-12-29 15:31:47,287 INFO server.py Guest connected
+2022-12-29 15:31:47,287 INFO server.py Processing client request
+2022-12-29 15:31:47,287 INFO server.py Succsessfully processed
+2022-12-29 15:31:47,288 INFO decorators.py Function <process_client_request> was called from <main> function
