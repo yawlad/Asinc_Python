@@ -78,3 +78,4 @@ HUND
 2023-01-05 16:22:54,213 INFO client.py Message from: Guest:
 Li
 2023-01-05 16:22:54,215 INFO client.py Function <message_from_server> was called from <connect> function
+2023-01-05 16:24:14,020 ERROR client.py Connection lost: 127.0.0.1.
