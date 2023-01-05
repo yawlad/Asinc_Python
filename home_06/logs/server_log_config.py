@@ -5,7 +5,7 @@ import logging.handlers
 from common.constants import LOGGING_LEVEL
 sys.path.append('../')
 
-_format = logging.Formatter('%(asctime)s %(levelname)s %(filename)s %(message)s')
+_format = logging.Formatter('%(asctime)s %(levelname)s server.py %(message)s')
 
 log_file_name = os.path.dirname(os.path.abspath(__file__))
 log_file_name = os.path.join(log_file_name, 'server.log')
