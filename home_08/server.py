@@ -131,18 +131,16 @@ class Server():
             if recv_data_lst:
                 for client_with_message in recv_data_lst:
                     try:
-                        self.process_client_message(get_message(client_with_message),
-                                            messages, client_with_message, clients, names)
+                        self.process_client_request(get_message(client_with_message), messages, client_with_message, clients, names)
                     except Exception:
-                        self.logger.info(f'Клиент {client_with_message.getpeername()} '
-                                    f'отключился от сервера.')
+                        self.logger.info(f'Client {client_with_message.getpeername()} disconnected')
                         clients.remove(client_with_message)
 
             for i in messages:
                 try:
                     self.process_message(i, names, send_data_lst)
                 except Exception:
-                    self.logger.info(f'Связь с клиентом с именем {i[DESTINATION]} была потеряна')
+                    self.logger.info(f'connection with {i[DESTINATION]} has been lost')
                     clients.remove(names[i[DESTINATION]])
                     del names[i[DESTINATION]]
             messages.clear()
